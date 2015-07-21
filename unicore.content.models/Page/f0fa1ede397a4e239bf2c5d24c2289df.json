@@ -6,12 +6,12 @@
   "primary_category": "defc62151e58437bad5541034dc127fa", 
   "created_at": "2015-07-16T15:09:58.610765+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-16T15:18:51.258466+00:00", 
+  "modified_at": "2015-07-21T14:52:47.768715+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 2, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "3-nani-wapo-katika-hatari-zaidi-ya-kupata-ugonjwa-wa-ebola", 
   "uuid": "f0fa1ede397a4e239bf2c5d24c2289df"
